@@ -20,13 +20,13 @@ This web scraper utilizes the power of Next.js for a server-rendered React appli
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/web-scraper.git
+   git clone https://github.com/ankitrout2903/webscrapper
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd web-scraper
+   cd webscraper
    npm install
    ```
 
